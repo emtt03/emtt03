@@ -96,5 +96,10 @@
 <path d="M475 534H1157" stroke="#ced6df"/>
 <text x="480" y="556" class="label" font-size="14" >GitHub Stats</text>
 <path d="M601 551H1157" stroke="#ced6df"/>
-<text x="482" y="585" class="muted" font-size="13" >Awaiting first GitHub Actions sync — no sample numbers</text>
+<text x="482" y="584" class="label" font-size="12.8" >Repos:</text>
+<text x="568" y="584" class="bright" font-size="12.8" >1</text>
+<text x="693" y="584" class="label" font-size="12.8" >Followers:</text>
+<text x="806" y="584" class="bright" font-size="12.8" >0</text>
+<text x="939" y="584" class="label" font-size="12.8" >Following:</text>
+<text x="1060" y="584" class="bright" font-size="12.8" >0</text>
 </svg>
