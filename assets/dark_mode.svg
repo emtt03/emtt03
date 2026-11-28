@@ -48,7 +48,7 @@
 <text x="830" y="141" class="bright" font-size="12.6" >Arch Linux, Windows 11, iOS, Android 14</text>
 <text x="482" y="164" class="label" font-size="13" >Uptime:</text>
 <path d="M685 159H813" stroke="#617181" stroke-width="1.15" stroke-dasharray="1.5 5.6"/>
-<text x="830" y="164" class="bright" font-size="12.6" >17y 7m 24d</text>
+<text x="830" y="164" class="bright" font-size="12.6" >17y 7m 25d</text>
 <text x="482" y="187" class="label" font-size="13" >Host:</text>
 <path d="M685 182H813" stroke="#617181" stroke-width="1.15" stroke-dasharray="1.5 5.6"/>
 <text x="830" y="187" class="bright" font-size="12.6" >Lenovo ThinkPad L14 Gen 2</text>
